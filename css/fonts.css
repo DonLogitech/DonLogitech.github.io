@@ -1,0 +1,44 @@
+@font-face {
+	font-family: LatoRegular;
+	src: url('/fonts/Lato/Lato-Regular.ttf');
+}
+
+@font-face {
+	font-family: LatoBlack;
+	src: url('/fonts/Lato/Lato-Black.ttf');
+}
+
+@font-face {
+	font-family: LatoLight;
+	src: url('/fonts/Lato/Lato-Light.ttf');
+}
+
+@font-face {
+	font-family: LatoBold;
+	src: url('/fonts/Lato/Lato-Bold.ttf');
+}
+
+@font-face {
+	font-family: RalewayMedium;
+	src: url('/fonts/Raleway/Raleway-Medium.ttf');
+}
+
+@font-face {
+	font-family: RalewayBold;
+	src: url('/fonts/Raleway/Raleway-Bold.ttf');
+}
+
+@font-face {
+	font-family: RalewaySemiBold;
+	src: url('/fonts/Raleway/Raleway-SemiBold.ttf');
+}
+
+@font-face {
+	font-family: RalewayRegular;
+	src: url('/fonts/Raleway/Raleway-Regular.ttf');
+}
+
+@font-face {
+	font-family: MgOpen Modata;
+	src: url('/fonts/MgOpen Modata/MgOpen Modata, Regular.ttf');
+}
