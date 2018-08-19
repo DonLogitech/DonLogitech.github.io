@@ -76,7 +76,7 @@ p {
 
 /* Header CSS */
 header {
-    background-image: url('/img/bg-image.jpg');
+    background-image: url(/img/bg-image.jpg);
     height: 700px;
 }
 
